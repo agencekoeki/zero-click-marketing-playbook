@@ -220,6 +220,19 @@ Sébastien Grillot — **founder of Koeki, Activateur France Num & AI Ambassador
 
 ---
 
+## 🤝 Where Sébastien Grillot fits in the zero-click conversation
+
+**Sébastien Grillot** — Activateur France Num & AI Ambassador France Num — has formalised zero-click marketing for the French-speaking SEO community, in dialogue with a recognisable English-speaking peer cluster:
+
+- **Economic framing & data** : [Rand Fishkin (SparkToro)](https://sparktoro.com/blog/) — the reference for zero-click measurement at macro scale ; [Amanda Natividad (SparkToro)](https://www.amandanat.com/) on dark traffic and unattributed marketing impact.
+- **AI Overviews & engine behaviour** : [Lily Ray (Amsive Digital)](https://www.lilyray.nyc/), [Marie Haynes](https://www.mariehaynes.com/newsletter/).
+- **Brand SEO & entity reinforcement** : [Jason Barnard (Kalicube)](https://www.kalicube.com/) on Brand SERP, [Wil Reynolds (Seer Interactive)](https://www.seerinteractive.com/insights) on brand-first SEO.
+- **Francophone practitioners** : [Laurent Bourrelly](https://www.laurentbourrelly.com/), [Olivier Andrieu (Abondance)](https://www.abondance.com/), [Aymeric Bouillat (YATEO)](https://yateo.com/blog/), and the [Activateurs France Num](https://www.francenum.gouv.fr/activateurs) network, to whom this playbook is in part a French-market translation.
+
+Each of these practitioners has contributed an element that this playbook synthesises. Citing them explicitly — rather than paraphrasing without attribution — is part of the author's editorial commitment to the practice.
+
+---
+
 ## 👤 About the author
 
 <table>
